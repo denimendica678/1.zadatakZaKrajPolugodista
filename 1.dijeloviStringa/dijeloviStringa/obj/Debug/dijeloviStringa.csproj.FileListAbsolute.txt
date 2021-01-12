@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\dijeloviStringa\dijeloviStringa\bin\Debug\dijeloviStringa.exe.config
+C:\Users\denim\source\repos\dijeloviStringa\dijeloviStringa\bin\Debug\dijeloviStringa.exe
+C:\Users\denim\source\repos\dijeloviStringa\dijeloviStringa\bin\Debug\dijeloviStringa.pdb
+C:\Users\denim\source\repos\dijeloviStringa\dijeloviStringa\obj\Debug\dijeloviStringa.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\dijeloviStringa\dijeloviStringa\obj\Debug\dijeloviStringa.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\dijeloviStringa\dijeloviStringa\obj\Debug\dijeloviStringa.exe
+C:\Users\denim\source\repos\dijeloviStringa\dijeloviStringa\obj\Debug\dijeloviStringa.pdb
